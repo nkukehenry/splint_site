@@ -1,0 +1,329 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-08 00:13:21 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 00:14:20 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 00:16:58 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 00:18:12 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 00:29:54 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 00:31:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:34 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:35 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:41 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:31:51 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:39:22 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 00:44:10 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 00:47:49 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 00:47:49 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 00:47:49 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 00:50:26 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 00:55:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 00:55:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 00:57:12 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:10:39 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:13:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 01:14:45 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:19:02 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:22:09 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:26:04 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:37:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 01:42:01 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:44:57 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:48:40 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 01:52:53 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 01:52:54 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 01:52:54 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 01:58:29 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:02:24 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:03:02 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:29:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 02:29:05 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2022-01-08 02:30:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 02:36:26 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:36:26 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:39:26 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:44:27 --> 404 Page Not Found: Tag/opportunity
+ERROR - 2022-01-08 02:44:47 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:55:28 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:55:47 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 02:57:16 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 02:57:16 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 02:57:16 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 02:59:57 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:00:49 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:04:32 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:05:04 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:07:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 03:12:34 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:13:18 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:32:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 03:36:08 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:40:42 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:41:52 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:58:43 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 03:59:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 04:03:24 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:06:03 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 04:06:03 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 04:06:04 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 04:06:35 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:10:17 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:12:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 04:16:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 04:16:36 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:18:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 04:21:13 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:22:46 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:32:31 --> 404 Page Not Found: Tag/wins
+ERROR - 2022-01-08 04:33:04 --> 404 Page Not Found: Recent_events/index
+ERROR - 2022-01-08 04:37:24 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:49:06 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:51:44 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:53:09 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:54:38 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 04:58:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 05:04:11 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:04:26 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:06:58 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 05:08:06 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:11:22 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 05:11:22 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 05:11:22 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 05:15:58 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:17:48 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:18:35 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:22:22 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:39:03 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:42:28 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:43:15 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:44:54 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:47:14 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 05:48:02 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:02:56 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:04:16 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:07:16 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:11:57 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:16:24 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 06:16:24 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 06:16:24 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 06:19:23 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:20:52 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:25:33 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:25:52 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:38:24 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 06:42:36 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 08:53:47 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:53:47 --> Unable to connect to the database
+ERROR - 2022-01-08 08:53:47 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:53:47 --> Unable to connect to the database
+ERROR - 2022-01-08 08:53:47 --> Query error: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) - Invalid query: SELECT * from tbl_settings WHERE id=1
+ERROR - 2022-01-08 08:53:47 --> Severity: error --> Exception: Call to a member function first_row() on bool /home/fitspa/public_html/application/models/Model_common.php 9
+ERROR - 2022-01-08 08:54:02 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:54:02 --> Unable to connect to the database
+ERROR - 2022-01-08 08:54:02 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:54:02 --> Unable to connect to the database
+ERROR - 2022-01-08 08:54:02 --> Query error: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) - Invalid query: SELECT * from tbl_settings WHERE id=1
+ERROR - 2022-01-08 08:54:02 --> Severity: error --> Exception: Call to a member function first_row() on bool /home/fitspa/public_html/application/models/Model_common.php 9
+ERROR - 2022-01-08 08:54:46 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:54:46 --> Unable to connect to the database
+ERROR - 2022-01-08 08:54:46 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:54:46 --> Unable to connect to the database
+ERROR - 2022-01-08 08:54:46 --> Query error: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) - Invalid query: SELECT * from tbl_settings WHERE id=1
+ERROR - 2022-01-08 08:54:46 --> Severity: error --> Exception: Call to a member function first_row() on bool /home/fitspa/public_html/application/models/Model_common.php 9
+ERROR - 2022-01-08 08:55:08 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 08:55:19 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:55:19 --> Unable to connect to the database
+ERROR - 2022-01-08 08:55:19 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:55:19 --> Unable to connect to the database
+ERROR - 2022-01-08 08:55:19 --> Query error: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) - Invalid query: SELECT * from tbl_settings WHERE id=1
+ERROR - 2022-01-08 08:55:19 --> Severity: error --> Exception: Call to a member function first_row() on bool /home/fitspa/public_html/application/models/Model_common.php 9
+ERROR - 2022-01-08 08:57:01 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:57:01 --> Unable to connect to the database
+ERROR - 2022-01-08 08:57:01 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/fitspa/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-01-08 08:57:01 --> Unable to connect to the database
+ERROR - 2022-01-08 08:57:01 --> Query error: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) - Invalid query: SELECT * from tbl_settings WHERE id=1
+ERROR - 2022-01-08 08:57:01 --> Severity: error --> Exception: Call to a member function first_row() on bool /home/fitspa/public_html/application/models/Model_common.php 9
+ERROR - 2022-01-08 08:58:41 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 08:58:41 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:01:02 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 09:01:03 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 09:07:23 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:14:10 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:16:26 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:19:33 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:21:02 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:25:20 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:29:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 09:30:18 --> 404 Page Not Found: 2021/06
+ERROR - 2022-01-08 09:31:43 --> 404 Page Not Found: ALFA_DATA/alfacgiapi
+ERROR - 2022-01-08 09:32:23 --> 404 Page Not Found: Alfacgiapi/perl.alfa
+ERROR - 2022-01-08 09:38:51 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:42:23 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 09:42:23 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 09:42:23 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 09:43:51 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:45:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 09:47:53 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 09:51:55 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 10:12:38 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 10:17:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 10:17:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 10:17:44 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 10:30:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 10:40:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 10:40:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 10:40:55 --> 404 Page Not Found: 2021/03
+ERROR - 2022-01-08 10:40:56 --> 404 Page Not Found: 2021/03
+ERROR - 2022-01-08 10:43:13 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 10:47:20 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 10:49:18 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 10:49:18 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 10:49:18 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 11:01:13 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 11:02:39 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 11:06:22 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 11:13:42 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 11:21:21 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 11:33:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 11:35:34 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 11:46:00 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 11:55:54 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 11:55:54 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 11:55:54 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 12:02:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-08 12:02:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-08 12:02:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-08 12:27:17 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 12:27:36 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 12:31:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 12:38:13 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 12:47:32 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 12:58:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 13:00:42 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 13:00:42 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 13:00:42 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 13:06:52 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 13:09:52 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 13:22:37 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 13:41:16 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 14:06:43 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 14:06:43 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 14:06:43 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 14:16:02 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 14:21:40 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 14:48:15 --> 404 Page Not Found: Membership/index
+ERROR - 2022-01-08 15:07:56 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2022-01-08 15:08:53 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 15:09:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 15:16:23 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 15:16:24 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 15:16:24 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 15:19:49 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 15:35:37 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 15:46:34 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 15:51:32 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 15:55:29 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 16:01:41 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 16:13:32 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 16:20:18 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 16:20:18 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 16:20:18 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 16:23:33 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 16:29:07 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 16:45:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 16:48:53 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 17:13:28 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2022-01-08 17:24:59 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 17:26:11 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 17:26:11 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 17:26:11 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 17:31:19 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 17:33:30 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 17:38:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 17:39:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 17:46:42 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2022-01-08 17:53:22 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 18:17:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 18:33:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 18:33:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 18:33:14 --> 404 Page Not Found: Symposium_2020/index
+ERROR - 2022-01-08 18:33:36 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 18:33:36 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 18:33:36 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 18:33:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 18:41:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 18:41:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 18:47:37 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 18:51:15 --> 404 Page Not Found: Adminn/index
+ERROR - 2022-01-08 18:51:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-08 19:00:59 --> 404 Page Not Found: Membership/index
+ERROR - 2022-01-08 19:20:42 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 19:32:42 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 19:36:21 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 19:37:28 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 19:37:28 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 19:37:28 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 19:41:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 19:45:48 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 19:46:30 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 20:00:54 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 20:01:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 20:01:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 20:03:57 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 20:10:55 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 20:12:35 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2022-01-08 20:21:08 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 20:43:06 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 20:43:06 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 20:43:06 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 20:50:39 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 20:55:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 20:55:19 --> 404 Page Not Found: Membership_registration/index
+ERROR - 2022-01-08 21:10:39 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 21:13:10 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 21:20:20 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 21:22:35 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 21:24:27 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 21:33:50 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 21:46:25 --> 404 Page Not Found: Membership/index
+ERROR - 2022-01-08 21:47:20 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 21:47:20 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 21:47:20 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 22:12:12 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 22:12:58 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 22:16:13 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 22:20:49 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 22:47:47 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 22:51:02 --> 404 Page Not Found: Feed/index
+ERROR - 2022-01-08 22:51:02 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 22:51:02 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 22:57:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 22:57:24 --> 404 Page Not Found: Event/4th_nigeria_national_fintech_conference
+ERROR - 2022-01-08 23:04:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 23:10:12 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:17:12 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:24:49 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:32:24 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:37:52 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:41:23 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:44:15 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:47:52 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:50:34 --> 404 Page Not Found: Symposium_2020/index
+ERROR - 2022-01-08 23:57:27 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2022-01-08 23:58:04 --> 404 Page Not Found: Rss/index
+ERROR - 2022-01-08 23:58:05 --> 404 Page Not Found: Feeds/index
+ERROR - 2022-01-08 23:58:05 --> 404 Page Not Found: Feed/index

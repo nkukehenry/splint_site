@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-20 08:42:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-20 08:49:32 --> 404 Page Not Found: Env/index
+ERROR - 2020-09-20 08:49:33 --> 404 Page Not Found: Vendor/.env
+ERROR - 2020-09-20 08:49:34 --> 404 Page Not Found: Storage/.env
+ERROR - 2020-09-20 08:49:34 --> 404 Page Not Found: Public/.env
+ERROR - 2020-09-20 16:17:33 --> 404 Page Not Found: Wp_admin/admin_ajax.php
+ERROR - 2020-09-20 16:17:35 --> 404 Page Not Found: Wp_configphp1/index
+ERROR - 2020-09-20 16:17:38 --> 404 Page Not Found: Wp_configphpswp/index
+ERROR - 2020-09-20 16:17:44 --> 404 Page Not Found: Wp_configphpdisabled/index
+ERROR - 2020-09-20 16:17:46 --> 404 Page Not Found: Wp_configbak/index
+ERROR - 2020-09-20 16:17:51 --> 404 Page Not Found: Wp_configphpnew/index
+ERROR - 2020-09-20 16:17:54 --> 404 Page Not Found: Wp_configphpold/index
+ERROR - 2020-09-20 16:17:59 --> 404 Page Not Found: Wp_configphpbak/index
+ERROR - 2020-09-20 16:18:03 --> 404 Page Not Found: Wp_configphpbackup/index
+ERROR - 2020-09-20 16:18:06 --> 404 Page Not Found: Wp_configphpsave/index
+ERROR - 2020-09-20 16:18:08 --> 404 Page Not Found: Wp_configphp~/index
+ERROR - 2020-09-20 16:18:11 --> 404 Page Not Found: Wp_configphp_/index
+ERROR - 2020-09-20 16:18:15 --> 404 Page Not Found: Wp_configphporig/index
+ERROR - 2020-09-20 16:18:21 --> 404 Page Not Found: Wp_configphp_orig/index
+ERROR - 2020-09-20 16:18:28 --> 404 Page Not Found: Wp_configphporiginal/index
+ERROR - 2020-09-20 16:18:30 --> 404 Page Not Found: Wp_configphp_original/index
+ERROR - 2020-09-20 16:18:32 --> 404 Page Not Found: Wp_configphp_original/index
+ERROR - 2020-09-20 16:18:35 --> 404 Page Not Found: Wp_configphporiginal/index
+ERROR - 2020-09-20 16:18:37 --> 404 Page Not Found: Wp_configgood/index
+ERROR - 2020-09-20 16:18:39 --> 404 Page Not Found: Wp_config_good/index
+ERROR - 2020-09-20 16:18:42 --> 404 Page Not Found: Wp_config_good/index
+ERROR - 2020-09-20 22:19:07 --> 404 Page Not Found: Wp_loginphp/index

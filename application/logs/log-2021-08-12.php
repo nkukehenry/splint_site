@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-12 00:47:09 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-08-12 00:47:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-12 02:29:35 --> 404 Page Not Found: Wp_admin/install.php
+ERROR - 2021-08-12 02:29:36 --> 404 Page Not Found: Wordpress/wp_admin
+ERROR - 2021-08-12 02:29:36 --> 404 Page Not Found: Blog/wp_admin
+ERROR - 2021-08-12 02:29:37 --> 404 Page Not Found: Old/wp_admin
+ERROR - 2021-08-12 02:29:37 --> 404 Page Not Found: New/wp_admin
+ERROR - 2021-08-12 02:29:38 --> 404 Page Not Found: Test/wp_admin
+ERROR - 2021-08-12 02:29:38 --> 404 Page Not Found: Wp/wp_admin
+ERROR - 2021-08-12 02:29:39 --> 404 Page Not Found: Wp_admin/setup_config.php
+ERROR - 2021-08-12 02:29:39 --> 404 Page Not Found: Wordpress/wp_admin
+ERROR - 2021-08-12 02:29:39 --> 404 Page Not Found: Wp/wp_admin
+ERROR - 2021-08-12 02:29:40 --> 404 Page Not Found: Blog/wp_admin
+ERROR - 2021-08-12 02:29:40 --> 404 Page Not Found: Old/wp_admin
+ERROR - 2021-08-12 02:29:41 --> 404 Page Not Found: New/wp_admin
+ERROR - 2021-08-12 02:29:41 --> 404 Page Not Found: Test/wp_admin
+ERROR - 2021-08-12 02:43:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-12 02:57:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-12 02:57:51 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-08-12 02:57:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-08-12 05:47:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-12 06:55:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-12 17:14:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-12 17:14:47 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-08-12 22:49:33 --> 404 Page Not Found: 404html/index
+ERROR - 2021-08-12 22:49:33 --> 404 Page Not Found: 404html/index
+ERROR - 2021-08-12 22:49:34 --> 404 Page Not Found: 404html/index
+ERROR - 2021-08-12 22:49:34 --> 404 Page Not Found: 404html/index
