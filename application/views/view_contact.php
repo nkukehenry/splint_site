@@ -96,9 +96,6 @@
                                     <div class="g-recaptcha" data-sitekey="6LcqpjcdAAAAAAlI1CNun7ndpl64Oev6fDg_03mF">
                                     </div>
                                 </div>
-                                <!-- <div class="form-group col-12">
-                                    <button type="submit" class="btn" name="form_contact"><?php echo SEND_MESSAGE; ?></button>
-                                </div -->
                            
                             <div class="col-md-12 col-sm-12 col-xs-12 text-center">
                                 <button type="submit" id="submit"  name="form_contact" class="add-btn contact-btn">Send Message</button>
@@ -117,7 +114,6 @@
              <div class="col-md-6 col-sm-6 col-xs-12">
                  <!-- Start Map -->
                 <div class="map-area">
-                    <!-- <div id="googleMap" style="width:100%;height:360px;"></div> -->
                     <?php echo $page_contact['contact_map']; ?>
                 </div>
                 <!-- End Map -->
