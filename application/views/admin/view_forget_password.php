@@ -20,7 +20,7 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>public/admin/css/style.css">
 	<style>
 		.login-page {
-			background: #333;
+			background: #04454D;
 		}
 		.login-logo {
 			color: #fff;
@@ -33,7 +33,7 @@
 
 <div class="login-box">
 	<div class="login-logo">
-		<b>FITSPA - Admin Panel</b>
+		<b>SPLINT - Admin Panel</b>
 	</div>
   	<div class="login-box-body">
     	<h4 class="login-box-msg">Reset Password</h4>

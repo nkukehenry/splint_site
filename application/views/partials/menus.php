@@ -2,7 +2,7 @@
         <!-- <div id="preloader"></div> -->
         <header class="header-one">
             <!-- header-area start -->
-            <div id="sticker" class="header-area hidden-xs">
+            <div id="sticker" class="header-area hidden-xs  hidden-sm">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 col-sm-12">
@@ -45,7 +45,7 @@
             </div>
             <!-- header-area end -->
             <!-- mobile-menu-area start -->
-            <div class="mobile-menu-area hidden-lg hidden-md hidden-sm">
+            <div class="mobile-menu-area hidden-lg hidden-md">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">

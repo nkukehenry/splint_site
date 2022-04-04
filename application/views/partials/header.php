@@ -1,14 +1,10 @@
 <!doctype html>
 <html class="no-js" lang="en">
 	
-<!-- Mirrored from rockstheme.com/rocks/paiment-live/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 17 Jun 2021 17:52:57 GMT -->
 <head>
-	<!-- 	<meta charset="utf-8">
+	    <meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Home-1 | Paiment</title>
-		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
- -->
        <?php $this->load->view('meta_headers.php'); ?>
 		<!-- favicon -->		
 		<link rel="shortcut icon" type="image/x-icon" href="<?=base_url()?>public/splint/img/logo/favicon.png">

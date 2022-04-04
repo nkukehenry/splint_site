@@ -3,7 +3,7 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Login :: FITSPA</title>
+	<title>Login | SPLINT</title>
 
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>public/admin/css/style.css">
 	<style>
 		.login-page {
-			background: #333;
+			background: #04454D;
 		}
 		.login-logo {
 			color: #fff;
@@ -35,7 +35,7 @@
 
 <div class="login-box">
 	<div class="login-logo">
-		<b>FITSPA</b>
+		<img src="<?=base_url()?>/public/splint/img/logo/logo3.png">
 	</div>
   	<div class="login-box-body">
     	<p class="login-box-msg">Log in to start your session</p>
