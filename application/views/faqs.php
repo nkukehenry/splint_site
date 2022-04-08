@@ -3,8 +3,8 @@
              <div class="row">
     					<div class="col-md-12 col-sm-12 col-xs-12">
     						<div class="section-headline text-center">
-                                <h3>Frequently Asked Questions</h3>
-                                <p>Help agencies to define their new business objectives and then create professional software.</p>
+                      <h3>Frequently Asked Questions</h3>
+                      <p>Below are some of the questions we are often asked, if yours are  not covered here, please contacts us.</p>
     						</div>
     					</div>
     				</div>
