@@ -146,7 +146,7 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="copyright">
                                 <p>
-                                    Copyright © 2019
+                                    Copyright © <?=date('Y')?>
                                     <a href="<?=base_url()?>">Splint Investments</a> All Rights Reserved
                                 </p>
                             </div>
